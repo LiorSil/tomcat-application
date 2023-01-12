@@ -4,7 +4,7 @@
 
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-        <title>Hello World - JSP tutorial 4</title>
+        <title>Hello World - JSP tutorial 6</title>
     </head>
 
     <body>
