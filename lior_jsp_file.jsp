@@ -8,9 +8,9 @@
             <title>Guru current Date</title>
         </head>
 
-        <body>
+        <body />
 
-            Guy, Lior And Ben Project: Today's date: <%= (new java.util.Date()).toLocaleString()%>
-        </body>
+        Guy, Lior And Ben Project: Today's date: <%= (new java.util.Date()).toLocaleString()%>
+            </body>
 
         </html>
