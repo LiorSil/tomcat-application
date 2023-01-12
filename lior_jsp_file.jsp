@@ -10,7 +10,7 @@
 
 
         <body>
-            Guy, Lior And Ben Project: Today's date: <%= (new java.util.Date()).toLocaleString()%>
+            Guy, Lior And Ben Project: Today's date: <%= (new java.util2.Date()).toLocaleString()%>
         </body>
 
         </html>
